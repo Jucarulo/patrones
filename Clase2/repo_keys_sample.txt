@@ -1,1 +1,1 @@
-GIT_KEY=repo_keys.txt
+GIT_KEY=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
