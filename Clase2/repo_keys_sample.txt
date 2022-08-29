@@ -1,1 +1,1 @@
-GIT_KEY=gh_XXXXXXXXXXXXXX
+GIT_KEY=repo_keys.txt
